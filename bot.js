@@ -315,7 +315,7 @@
             }
         },
         room: {
-            name: [],
+            name: null,
             chatMessages: [],
             users: [],
             afkList: [],
