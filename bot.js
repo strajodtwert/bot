@@ -315,7 +315,7 @@
             }
         },
         room: {
-            name: BalkanMusic,
+            name: [],
             chatMessages: [],
             users: [],
             afkList: [],
