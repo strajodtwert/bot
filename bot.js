@@ -231,7 +231,7 @@
         return str;
     };
 
-    var botCreator = "strajo98";
+    var botCreator = "strajo98s";
     var botMaintainer = "strajo98"
     var botCreatorIDs = ["3851534", "4105209"];
 
