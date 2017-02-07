@@ -235,14 +235,14 @@
     var botMaintainer = "strajo98"
     var botCreatorIDs = ["3851534", "4105209"];
 
-    var BalkanMusicBot = {
-        version: "1.0",
+    var basicBot = {
+        version: "2.9.1",
         status: false,
-        name: "BalkanMusicBOt",
+        name: "basicBot",
         loggedInID: null,
         scriptLink: "https://rawgit.com/strajodtwert/bot/master/bot.js",
         cmdLink: "http://git.io/245Ppg",
-        chatLink: "https://rawgit.com/strajodtwert/bot/master/en.json",
+        chatLink: "https://rawgit.com/Ajdin1997/Dave1.0/master/Lang/cro.json",
         chat: null,
         loadChat: loadChat,
         retrieveSettings: retrieveSettings,
@@ -250,7 +250,7 @@
         settings: {
             botName: "BalkanMusicBOT",
             language: "english",
-            chatLink: "https://rawgit.com/strajodtwert/bot/master/en.json",
+            chatLink: "https://rawgit.com/Ajdin1997/Dave1.0/master/Lang/cro.json",
             scriptLink: "https://rawgit.com/strajodtwert/bot/master/bot.js",
             roomLock: false, // Requires an extension to re-load the script
             startupCap: 1, // 1-200
