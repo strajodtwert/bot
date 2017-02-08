@@ -242,7 +242,7 @@
         loggedInID: null,
         scriptLink: "https://rawgit.com/strajodtwert/bot/master/bot.js",
         cmdLink: "http://git.io/245Ppg",
-        chatLink: "https://rawgit.com/Ajdin1997/Dave1.0/master/Lang/cro.json",
+        chatLink: "https://rawgit.com/strajodtwert/bot/master/srb.json",
         chat: null,
         loadChat: loadChat,
         retrieveSettings: retrieveSettings,
@@ -250,7 +250,7 @@
         settings: {
             botName: "BalkanMusicBOT",
             language: "english",
-            chatLink: "https://rawgit.com/Ajdin1997/Dave1.0/master/Lang/cro.json",
+            chatLink: "https://rawgit.com/strajodtwert/bot/master/srb.json",
             scriptLink: "https://rawgit.com/strajodtwert/bot/master/bot.js",
             roomLock: false, // Requires an extension to re-load the script
             startupCap: 1, // 1-200
